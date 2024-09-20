@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ribika Yonas
+Hi 👋🏽 My name is Ribika Yonas
 ====================================================================================================================================
 
 Passionate frontend developer specializing in React and Next.js, dedicated to creating user-friendly websites with optimal user experiences and responsive design. Proficient in Figma, with a portfolio featuring designs for a Shopify site and company portfolios. Eager to contribute technical expertise and collaborative energy to your team.
