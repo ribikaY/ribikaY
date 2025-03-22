@@ -4,7 +4,7 @@ Hi 👋🏽 My name is Ribika Yonas
 Passionate frontend developer specializing in React and Next.js, dedicated to creating user-friendly websites with optimal user experiences and responsive design. Proficient in Figma, with a portfolio featuring designs for a Shopify site and company portfolios. Eager to contribute technical expertise and collaborative energy to your team.
 
 *   🌍  I'm based in Ethiopia
-*   🖥️  See my portfolio at [My portfolio](http://https://ribika-portfolio.vercel.app/)
+*   🖥️  See my portfolio at [My portfolio](https://www.ribikayonas.dev/)
 *   ✉️  You can contact me at [yonasribika@gmail.com](mailto:yonasribika@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects
 
